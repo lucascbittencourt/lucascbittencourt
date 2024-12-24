@@ -1,6 +1,7 @@
+## Hello 👋
 I'm a back-end developer passionate about building reliable and high-performance applications. I enjoy solving complex challenges and leveraging the best tools and practices to create robust solutions.
 
-### :hammer_and_wrench: Technologies & Tools
+### 🛠️ Technologies & Tools
 - **Languages**: PHP, JavaScript
 - **Frameworks**: Laravel, Bootstrap
 - **Databases**: PostgreSQL, MySQL, ClickHouse
