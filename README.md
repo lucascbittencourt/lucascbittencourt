@@ -1,16 +1,12 @@
-## Hi there 👋
+I'm a back-end developer passionate about building reliable and high-performance applications. I enjoy solving complex challenges and leveraging the best tools and practices to create robust solutions.
 
-<!--
-**lucascbittencourt/lucascbittencourt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :hammer_and_wrench: Technologies & Tools
+- **Languages**: PHP, JavaScript
+- **Frameworks**: Laravel, Bootstrap
+- **Databases**: PostgreSQL, MySQL, ClickHouse
+- **DevOps**: Docker, Linux, Grafana
+- **Others**: PHP OpenSwoole, PHPUnit, OpenAPI, OpenTelemetry, Laravel Octane
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucascbittencourt&theme=dark&hide_title=true&rank_icon=github&show_icons=true&hide_border=true&hide=prs,issues&show=s,prs_merged"/>
+</div>
